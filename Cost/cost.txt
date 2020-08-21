@@ -1,1 +1,4 @@
 cost should be low
+cost
+cost
+cost
